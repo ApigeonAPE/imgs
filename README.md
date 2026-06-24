@@ -1,2 +1,2 @@
 # imgs
-Use for storaging images
+for storaging images
